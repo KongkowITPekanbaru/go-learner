@@ -4,8 +4,6 @@
 # Install From Linux
 source : [here](https://golang.org/doc/install#install)
 
-## example install
-
 ### Download GO Binary
 `https://golang.org/dl/`
 
