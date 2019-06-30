@@ -1,5 +1,5 @@
-* [Install On Linux](#install-from-linux)
-* [Install In Windows](#install-from-windows)
+* [Install on Linux](#install-from-linux)
+* [Install on Windows](#install-from-windows)
 ----
 # Install From Linux
 source : [here](https://golang.org/doc/install#install)
