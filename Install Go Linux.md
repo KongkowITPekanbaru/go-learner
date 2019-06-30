@@ -2,7 +2,7 @@
 source : [here](https://golang.org/doc/install#install)
 
 ### Download GO Binary
-`https://golang.org/doc/install#install`
+`https://golang.org/dl/`
 
 ### create folder go on `/usr/local/` and extract downloaded Go in /usr/local/ 
 `sudo tar -C /usr/local -xzf go1.12.6.linux-amd64.tar.gz`
