@@ -2,4 +2,5 @@
 Docs of Learning Go Tutorial 
 
 ---
-## Daftar Isi
+## table of contents
+
