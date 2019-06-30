@@ -1,4 +1,4 @@
-# [Install On Linux](#example)
+# [Install On Linux](#example-install)
 # Install In Windows
 ----
 ## How to Install Go in Linux Mint 19.1 or ubuntu 18.04
