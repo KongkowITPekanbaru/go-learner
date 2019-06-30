@@ -1,7 +1,7 @@
-# [Install On Linux](#example-install)
-# Install In Windows
+* [Install On Linux](#install-from-linux)
+* [Install In Windows](#install-from-windows)
 ----
-## How to Install Go in Linux Mint 19.1 or ubuntu 18.04
+# Install From Linux
 source : [here](https://golang.org/doc/install#install)
 
 ## example install
@@ -24,3 +24,5 @@ export PATH="$PATH:$GOPATH/bin:$GOROOT/bin:$PATH"
 
 ### and check your go env
 `go env`
+
+# Install From Windows
