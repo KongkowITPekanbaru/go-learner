@@ -4,7 +4,7 @@
 ## How to Install Go in Linux Mint 19.1 or ubuntu 18.04
 source : [here](https://golang.org/doc/install#install)
 
-## example
+## example install
 
 ### Download GO Binary
 `https://golang.org/dl/`
